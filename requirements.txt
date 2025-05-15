@@ -1,0 +1,7 @@
+bs4 == 4.12.3
+selenium == 4.31.0
+pandas == 2.2.2
+dash == 3.0.4
+plotly == 5.24.1
+numpy == 2.2.5
+tqdm == 4.66.5
